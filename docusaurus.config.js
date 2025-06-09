@@ -96,6 +96,7 @@ const config = {
           {to: '/blog', label: '博客', position: 'left'},
           {to: '/faq', label: '常见问题', position: 'left'},
           {to: '/download', label: '下载', position: 'right'},
+          {to: '/pluginstore', label: '插件商店', position: 'right'},
           {
             href: 'https://github.com/Shasnow/StarRailAssistant',
             label: 'GitHub',
