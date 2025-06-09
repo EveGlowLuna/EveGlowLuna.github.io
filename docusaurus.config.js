@@ -30,7 +30,7 @@ const config = {
   organizationName: 'EveGlowLuna', // Usually your GitHub org/user name.
   projectName: 'EveGlowLuna.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
