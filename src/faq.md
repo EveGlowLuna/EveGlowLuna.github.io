@@ -5,8 +5,8 @@ icon: question
 
 heroFullScreen: false
 
-bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
 bgImageStyle:
     background-attachment: fixed
 heroText: 常见问题及解答

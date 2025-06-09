@@ -5,8 +5,8 @@ icon: download
 
 heroFullScreen: false
 
-bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+bgImage: https://theme-hope-assets.vuejs.press/bg/8-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/8-dark.svg
 bgImageStyle:
     background-attachment: fixed
 heroText: 下载
