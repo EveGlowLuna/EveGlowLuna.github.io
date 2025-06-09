@@ -6,6 +6,7 @@ export default sidebar({
     "pluginstore",
     "download",
     "sponsor",
+    "faq",
     {
       text: "开始使用",
       icon: "signs-post",
