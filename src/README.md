@@ -48,12 +48,12 @@ highlights:
       - title: 自动剧情
         icon: play
         details: 帮你点击繁琐的对话，也能自动选择选项。
-        # link: https://theme-hope.vuejs.press/zh/guide/feature/search.html
+        link: https://eveglowluna.github.io/getstarted/advance.html#%E6%89%A9%E5%B1%95%E5%8A%9F%E8%83%BD-%E6%8F%92%E4%BB%B6
 
       - title: 多账号托管
         icon: users
         details: 可以保存多个账号的配置，在它们之间自动切换
-        # link: https://theme-hope.vuejs.press/zh/guide/markdown/code/fence.html
+        link: https://eveglowluna.github.io/getstarted/advance.html#%E5%A4%9A%E8%B4%A6%E5%8F%B7%E6%89%98%E7%AE%A1
 
 
   - header: 为什么选择StarRailAssistant?
