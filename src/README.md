@@ -28,22 +28,22 @@ highlights:
       - title: 启动游戏
         icon: play
         details: 在这里选择好游戏路径，输入账号与密码，坐和放宽 程序会帮你解决好一切。已经适配b服。
-        # link: https://theme-hope.vuejs.press/zh/guide/feature/catalog.html
+        link: https://eveglowluna.github.io/getstarted/getstarted.html#%E5%90%AF%E5%8A%A8%E6%B8%B8%E6%88%8F
 
       - title: 领取奖励
         icon: gift
         details: 帮您领取助战、兑换码、派遣、邮件、每个版本的巡星之礼等奖励。
-        # link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
+        link: https://eveglowluna.github.io/getstarted/getstarted.html#%E9%A2%86%E5%8F%96%E5%A5%96%E5%8A%B1
 
       - title: 清体力
         icon: heart
         details: 您可以自由选择关卡，是否补充体力、连战次数、执行次数、作战顺序，一切都交由您来决定，也可以混合搭配。
-        # link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
+        link: https://eveglowluna.github.io/getstarted/getstarted.html#%E6%B8%85%E5%BC%80%E6%8B%93%E5%8A%9B
 
       - title: 退出游戏
         icon: power-off
         details: 可以进行登出账号、关闭游戏、关机和休眠等操作。
-        # link: https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
+        link: https://eveglowluna.github.io/getstarted/getstarted.html#%E7%BB%93%E6%9D%9F%E5%90%8E
 
       - title: 自动剧情
         icon: play
@@ -63,7 +63,7 @@ highlights:
       - title: 基于PC本体游戏
         icon: computer
         details: 基于PC游戏本体运行，无需安装模拟器等。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
+        # link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
 
       - title: 开箱即用
         icon: box
