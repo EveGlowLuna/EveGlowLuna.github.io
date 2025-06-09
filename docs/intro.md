@@ -2,46 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 介绍
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## 总览
+如**首页**中介绍，SRA是一个基于图像识别的自动化游戏操作程序。
+它可以帮你实现一系列操作：
+1. 清体力（刷材料等）
+2. 完成每日任务
+3. 刷差分宇宙
+4. 自动签到、领取兑换码
+5. 自动对话（包括自动选择对话选项）
 
-## Getting Started
+## 为什么选择SRA？
+1. 我们完全免费，且拥有较为活跃的开发团队。
+2. 我们拥有插件功能，大大提高了可定制性。
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## 如何联系我们？
+你可以选择[加入QQ群聊（SRA测试群）](https://qm.qq.com/q/QnRw46sFWi)
+或者：
+1. 向项目作者发送邮件（yukikage@qq.com）
+2. 在BiliBili上关注项目作者（[点击传送](https://space.bilibili.com/349682013)）

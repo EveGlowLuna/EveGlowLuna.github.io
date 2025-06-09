@@ -1,19 +1,40 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+bilibili:
+  label: 哔哩哔哩
+  permalink: /bilibili
+  description: 哔哩哔哩视频平台
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+update:
+  label: 更新相关
+  permalink: /update
+  description: 本站更新相关的内容以及SRA更新相关内容
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+SRA:
+  label: StarRailAssistant
+  permalink: /starrailassistant
+  description: 有关SRA的内容
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+SRAUpdter:
+  label: SRAUpdter
+  permalink: /sraupdter
+  description: 有关SRA更新器的内容
+
+doc:
+  label: 文档
+  permalink: /doc
+  description: 有关文档的内容
+
+daily:
+  label: 日常
+  permalink: /daily
+  description: 有关日常内容
+
+blog:
+  label: 博客
+  permalink: /blog
+  description: 有关博客的内容
+
+rule:
+  label: 规则
+  permalink: /rule
+  description: 有关规则的内容
+  

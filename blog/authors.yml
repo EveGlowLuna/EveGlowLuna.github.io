@@ -1,25 +1,11 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+EveGlowLuna:
+  name: 洋辰
+  title: 该网站的维护者（之一），一个一事无成的开发者
+  url: https://github.com/EveGlowLuna
+  image_url: https://github.com/eveglowluna.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    QQ: https://wpa.qq.com/msgrd?v=3&uin=596113920&site=qq&menu=yes
+    bilibili: https://space.bilibili.com/639434531
+    github: EveGlowLuna
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
