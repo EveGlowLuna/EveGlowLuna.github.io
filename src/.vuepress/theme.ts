@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/img/SRAico.png",
 
-  repo: "Shasnow/StarRailAssistant",
+  repo: "EveGlowLuna/EveGlowLuna.github.io",
 
   docsDir: "src",
 
