@@ -4,6 +4,7 @@ export default navbar([
   "/",
   "/pluginstore",
   "/download",
+  "/sponsor",
   {
       text: "开始使用",
       icon: "signs-post",
@@ -13,8 +14,8 @@ export default navbar([
           text: "快速上手",
           prefix: "/getstarted/",
           children: [
-            { text: "介绍", icon: "flag", link: "/getstarted/" },
-            { text: "基础操作", icon: "flag", link: "/getstarted/getstarted" },
+            { text: "介绍", icon: "flag", link: "/getstarted/getstarted/" },
+            { text: "基础操作", icon: "flag", link: "/getstarted/getstarted/getstarted" },
             { text: "进阶操作", icon: "rocket", link: "/getstarted/advance" }
           ]
         }
