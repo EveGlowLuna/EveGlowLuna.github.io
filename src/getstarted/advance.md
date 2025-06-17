@@ -201,12 +201,21 @@ SRA 已对本地授权码数据使用 `Windows DPAPI` 加密，这种加密方�
 
 1. 仿照调试模式->具体步骤打开命令行，然后输入：
 
+::: tabs
+
+@tab cmd
+
 ```bash
-# cmd
 powershell -command "Start-Process cmd -Verb runAs -ArgumentList '/K', 'cd /d \"%CD%\"'"
-# powershell
+```
+
+@tab powershell
+
+```bash
 Start-Process powershell -Verb runAs -ArgumentList "-NoExit", "-Command", "cd '$((Get-Location).Path)'"
 ```
+:::
+
 :::warning
 
 在某些情况下，这两个命令也用不了。此时只能使用 `cd` 命令像双击打开文件那样打开文件目录。
@@ -227,9 +236,9 @@ Start-Process powershell -Verb runAs -ArgumentList "-NoExit", "-Command", "cd '$
 SRA的命令行应该是这样的：
 
 ```bash
-    SRA v0.8.2 for Windows
-    欢迎使用 SRA 命令行模式！输入 help 或 ? 查看帮助信息。
-    SRA>
+SRA v0.8.2 for Windows
+欢迎使用 SRA 命令行模式！输入 help 或 ? 查看帮助信息。
+SRA>
 ```
 一切准备就绪，可以输入help或者?来获取帮助。
 
@@ -270,6 +279,6 @@ SRA> run default
     2025-06-07 18:38:43 | INFO    | SRAssistant.assist_start:72 | 当前配置 default
     2025-06-07 18:38:43 | INFO    | SRAssistant.launch_game:183 | 等待游戏启动
     已中断运行。
-    SRA> exit
+SRA> exit
     正在退出 SRA 命令行模式...
 ```

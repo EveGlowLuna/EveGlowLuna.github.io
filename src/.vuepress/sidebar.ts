@@ -16,7 +16,7 @@ export default sidebar({
           text: "快速上手",
           prefix: "/getstarted/",
           children: [
-            { text: "介绍", icon: "flag", link: "/getstarted/" },
+            { text: "介绍", icon: "play", link: "/getstarted/" },
             { text: "基础操作", icon: "flag", link: "/getstarted/getstarted" },
             { text: "进阶操作", icon: "rocket", link: "/getstarted/advance" }
           ]
@@ -32,7 +32,7 @@ export default sidebar({
           text: "前置条件",
           prefix: "/getstarted/",
           children: [
-            { text: "介绍", icon: "info", link: "/develop/" },
+            { text: "介绍", icon: "play", link: "/develop/" },
             { text: "前言", icon: "info", link: "/develop/before" },
             { text: "学习 Python", icon: "laptop", link: "/develop/study" }
           ]

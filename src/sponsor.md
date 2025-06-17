@@ -16,14 +16,14 @@ tagline: StarRailAssistant是一个开源且免费的项目。<br>您的赞助�
 ```component VPCard
 title: 月度赞助
 desc: 选择月度赞助，支持我们的持续开发。<br>平台：爱发电
-logo: /img/et.png
+<!-- logo: /img/et.png -->
 link: https://afdian.com/a/shasnow
 background: rgba(253, 230, 138, 0.15)
 ```
 ```component VPCard
 title: 年度赞助
 desc: 选择年度赞助，支持我们的长期发展。<br>平台：爱发电
-logo: /img/p1.png
+<!-- logo: /img/p1.png -->
 link: https://afdian.com/a/shasnow
 background: rgba(253, 230, 138, 0.15)
 ```
